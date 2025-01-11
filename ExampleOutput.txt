@@ -1,0 +1,15 @@
+KEYWORD: 'local' at Line 2, Column 1
+KEYWORD: 'function' at Line 2, Column 7
+IDENT: 'greet' at Line 2, Column 16
+DELIM: '(' at Line 2, Column 21
+DELIM: ')' at Line 2, Column 22
+IDENT: 'print' at Line 3, Column 5
+DELIM: '(' at Line 3, Column 10
+STRING_DBL: '"Mars is cool!"' at Line 3, Column 11     
+DELIM: ')' at Line 3, Column 26
+KEYWORD: 'end' at Line 4, Column 1
+IDENT: 'greet' at Line 6, Column 1
+DELIM: '(' at Line 6, Column 6
+DELIM: ')' at Line 6, Column 7
+Total tokens: 13 
+
