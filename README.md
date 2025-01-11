@@ -9,4 +9,4 @@
 pip install luau-tokenizer
 ```
 ---
-Check the examples folder on how to use the package
+Check the examples File on how to use the package
